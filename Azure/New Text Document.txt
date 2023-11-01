@@ -4,4 +4,3 @@ stage("git clone")
 {
 provide url
 }
-stage(
